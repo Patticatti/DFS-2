@@ -9,7 +9,7 @@ p {
   font-family: "Manrope";
   line-height: 1.4em;
   box-sizing: border-box;
-  text-wrap: pretty;
+  text-wrap: "pretty";
   text-indent: 1.5em;
 }
 .circle {
